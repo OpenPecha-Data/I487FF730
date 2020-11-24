@@ -4,5 +4,19 @@ source_metadata:
   id: bdr:W8LS18775
   title: གྲོང་ཁྱེར་དང་གྲོང་གསེབ་ཀྱི་འཆར་གཞི་བཟོ་འགོད་བྱེད་ཕྱོགས་སྐོར་གྱི་ཀྲུང་ཧྭ་མི་དམངས་སྤྱི་མཐུན་རྒྱལ་ཁབ་ཀྱི་བཅའ་ཁྲིམས།
     དོན་འགྲེལ།
-  volume: ''
+  volume:
+    7bf643c3948940e093759b404dc153b0:
+      image_group_id: I8LS18777
+      title: Volume 1 of rong khyer dang grong gseb kyi 'char gzhi bzo 'god byed phyogs
+        skor gyi krung hwa mi dmangs spyi mthun rgyal khab kyi bca' khrims/
+      volume_number: 1
+      total_pages: 96
   author: ''
+ebook_metadata:
+  title: གྲོང་ཁྱེར་དང་གྲོང་གསེབ་ཀྱི་འཆར་གཞི་བཟོ་འགོད་བྱེད་ཕྱོགས་སྐོར་གྱི་ཀྲུང་ཧྭ་མི་དམངས་སྤྱི་མཐུན་རྒྱལ་ཁབ་ཀྱི་བཅའ་ཁྲིམས།
+    དོན་འགྲེལ།
+  author: ''
+  sku: P008149
+  cover: cover.jpg
+  layers:
+  - pagination
